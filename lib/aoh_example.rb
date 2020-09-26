@@ -21,7 +21,9 @@ end
 
 def literal_aoh
   literal_array = [
-    ]
+   { name:  "Don Gately", occupation: "Live-in Staff" },
+   
+   ]
   # Using Array literal syntax only, build a nested array that uses the data in
   # held in the constants
   
