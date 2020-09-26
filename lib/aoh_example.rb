@@ -23,7 +23,8 @@ def literal_aoh
   literal_array = [
    { name:  "Don Gately", occupation: "Live-in Staff" },
    { name:  "Joelle van Dyne", occupation: "Radio Personality" },
-   { name:  "Pat Monteseian", occupation: "Staff" }
+   { name:  "Pat Monteseian", occupation: "Staff" },
+   
    
    ]
   # Using Array literal syntax only, build a nested array that uses the data in
